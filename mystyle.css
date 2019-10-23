@@ -1,6 +1,11 @@
-html { font-family: 'Helvetica', monospace; font-size: 14px; }
+html {  font-family: 'Helvetica', monospace; 
+		font-size: 14px; 
+	}
 
-body { background-color: white; }
+body {  background-color: white; 
+		margin: 30px;
+		padding: 30px;
+	}
 
 .boxed {
   border: 1px dotted black ;
