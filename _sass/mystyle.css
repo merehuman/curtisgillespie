@@ -1,5 +1,7 @@
-{
-    font-family: Helvetica, Sans-Serif;
-    color: #000000;
-    font-size: 12;
-}
+html { font-family: 'Times New Roman', monospace; font-size: 12px; }
+
+body { background-color: white; }
+
+.boxed {
+  border: 1px dotted black ;
+} 
