@@ -9,7 +9,7 @@ body {  background-color: white;
 
 .boxed {
   border: 1px dotted black ;
-  padding: 10px 10px;
+  padding: 10px 10px; 
   border-width: 2px;
   width: 155px;
   /*background-color: #f4f4f4;*/
