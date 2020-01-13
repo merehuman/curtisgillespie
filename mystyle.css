@@ -28,8 +28,7 @@ body {  background-color: white;
   color: black;
   text-align: center;
   padding: 10px 10px;
-  border: 1px black;
-
+  /*border: 1px black;*/
   text-decoration: none;
 }
 
@@ -43,7 +42,7 @@ body {  background-color: white;
 .dropdown .dropbtn {
   font-size: 14px; 
   /*outline: none;*/
-  color: white;
+  color: black;
   padding: 10px 10px;
   border: 1px black;
   background-color: inherit;
