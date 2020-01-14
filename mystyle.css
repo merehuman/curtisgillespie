@@ -7,18 +7,18 @@ body {  background-color: white;
 		padding: 20px;
 	}
 
-/*.boxed {
-  border: 3px dotted black ;
-  padding: 10px 10px; 
-  border-width: 1px;
-  width: 155px;
-} 
-*/
+.title {  font-family: 'Helvetica', monospace; 
+		  font-size: 16px;
+
+}
 /* Navbar */
 .navbar {
   overflow: hidden;
   background-color: #ffffff;
   font-family: 'Helvetica', monospace; 
+  border: 3px black ;
+  padding: 10px 10px; 
+  border-width: 1px;
 }
 
 /* Links inside the navbar */
@@ -28,7 +28,6 @@ body {  background-color: white;
   color: black;
   text-align: center;
   padding: 10px 10px;
-  border: 1px black;
   text-decoration: none;
 }
 
@@ -41,10 +40,9 @@ body {  background-color: white;
 /* Dropdown button */
 .dropdown .dropbtn {
   font-size: 14px; 
-  outline: 1px black;
+  outline: none;
   color: black;
   padding: 10px 10px;
-  /*border: 1px black;*/
   background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
@@ -78,7 +76,7 @@ body {  background-color: white;
 
 /* Add a grey background color to dropdown links on hover */
 .dropdown-content a:hover {
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 
 /* Show the dropdown menu on hover */
