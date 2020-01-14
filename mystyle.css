@@ -48,7 +48,8 @@ body {  background-color: white;
   max-width: 150px;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
-  display: block;
+  /*display: block;*/
+  background-color: #ffffff;
 }
 
 /* background color to navbar links on hover */
