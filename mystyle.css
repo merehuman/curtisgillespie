@@ -7,9 +7,8 @@ body {  background-color: white;
 		padding: 20px;
 	}
 
-.title {  font-family: 'Helvetica', monospace; 
-		  font-size: 16px;
-
+.heading {  font-family: 'Helvetica', monospace; 
+		    font-size: 20px;
 }
 /* Navbar */
 .navbar {
@@ -29,6 +28,7 @@ body {  background-color: white;
   text-align: center;
   padding: 10px 10px;
   text-decoration: none;
+  display: block;
 }
 
 /* The dropdown container */
@@ -46,6 +46,7 @@ body {  background-color: white;
   background-color: inherit;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
+  display: block;
 }
 
 /* Add a red background color to navbar links on hover */
