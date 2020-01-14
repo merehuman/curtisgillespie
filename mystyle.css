@@ -15,9 +15,8 @@ body {  background-color: white;
   overflow: hidden;
   background-color: #ffffff;
   font-family: 'Helvetica', monospace; 
-  border: 3px black ;
   padding: 10px 10px; 
-  border-width: 1px;
+  border: 1px solid #555;
 }
 
 /* Links inside the navbar */
@@ -26,7 +25,7 @@ body {  background-color: white;
   font-size: 14px;
   color: black;
   text-align: center;
-  padding: 10px 10px;
+  padding: 10px 14px;
   text-decoration: none;
   display: block;
 }
@@ -56,10 +55,10 @@ body {  background-color: white;
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
-  display: none;
+  display: block;
   position: absolute;
   background-color: #ffffff;
-  min-width: 160px;
+  /*min-width: 160px;*/
   box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
@@ -83,4 +82,27 @@ body {  background-color: white;
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+
+button {
+    display: inline-block;
+    height: 134px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 104px;
+}
+
+#close-image img {
+    display: block;
+    height: 130px;  
+    width: 100px;
+}
+
+#close-CSS {
+    background-image: url( "" );
+    background-size: 100px 130px;
+    height: 134px;  
+    width: 104px;
 }
