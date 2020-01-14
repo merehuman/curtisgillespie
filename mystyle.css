@@ -88,11 +88,11 @@ body {  background-color: white;
 }
 
 
-/*button {
+button {
     display: inline-block;
-    height: 100px;
-    padding: 10;
+    /*height: 100px;*/
+    /*padding: 10;*/
     margin: 0;
-    vertical-align: top;
-    width: 100px;
-}*/
+    /*vertical-align: top;*/
+    width: 150px;
+}
