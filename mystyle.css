@@ -34,6 +34,10 @@ body {  background-color: white;
 .dropdown {
   float: left;
   overflow: hidden;
+  background-color: #ffffff;
+  font-family: 'Helvetica', monospace; 
+  padding: 10px 10px; 
+  border: 1px solid #555;
 }
 
 /* Dropdown button */
