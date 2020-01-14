@@ -16,12 +16,12 @@ body {  background-color: white;
   background-color: #ffffff;
   font-family: 'Helvetica', monospace; 
   padding: 14px 10px; 
-  border: 1px solid #555;
+  border: 1px dotted #555;
 }
 
 /* Links inside the navbar */
 .navbar a {
-  float: left;
+  float: right;
   font-size: 14px;
   color: black;
   text-align: center;
@@ -36,15 +36,15 @@ body {  background-color: white;
   overflow: hidden;
   background-color: #ffffff;
   font-family: 'Helvetica', monospace; 
-  padding: 14px 10px; 
-  /*border: 1px solid #555;*/
+  /*padding: 14px 10px; 
+  border: 1px solid #555;*/
 }
 
 /* Dropdown button */
 .dropdown .dropbtn {
   font-size: 14px; 
-  color: black;
-  padding: 14px 10px;
+  /*color: black;*/
+  /*padding: 14px 10px;*/
   max-width: 150px;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
@@ -88,15 +88,15 @@ body {  background-color: white;
 }
 
 
-button {
+/*button {
     display: none;
-    /*height: 100px;*/
-    /*padding: 10;*/
+    height: 100px;
+    padding: 10;
     margin: 0;
     vertical-align: top;
-    /*width: 150px;*/
+    width: 150px;
 }
-
+*/
 .aligncenter {
     text-align: center;
 }
