@@ -10,6 +10,10 @@ body {  background-color: white;
 .heading {  font-family: 'Helvetica', monospace; 
 		    font-size: 18px;
 }
+
+.boxed {
+  border: 1px grey ;
+}
 /* Navbar */
 .navbar {
   overflow: hidden;
