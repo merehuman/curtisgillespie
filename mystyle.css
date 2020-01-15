@@ -44,6 +44,7 @@ body {  background-color: white;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
   background-color: inherit;
+  text-align: center;
 }
 
 /* background color to navbar links on hover */
