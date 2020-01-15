@@ -79,7 +79,7 @@ body {  background-color: white;
 
 /* background color to dropdown links on hover */
 .dropdown-content a:hover {
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
 
 /* Show the dropdown menu on hover */
