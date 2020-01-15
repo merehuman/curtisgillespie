@@ -40,7 +40,7 @@ body {  background-color: white;
   border: none;
   outline: none;
   color: black;
-  padding: 16px 10px;
+  /*padding: 10px 10px;*/
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
   background-color: inherit;
