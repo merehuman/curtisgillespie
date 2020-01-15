@@ -9,7 +9,7 @@ body {  background-color: white;
 
 .heading {  font-family: 'Helvetica', monospace; 
 		    font-size: 18px;
-		    text-decoration: underline overline;
+		    text-decoration: bold;
 }
 
 .boxed {
@@ -50,7 +50,8 @@ body {  background-color: white;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
   background-color: inherit;
-  text-align: center;
+  text-align: left;
+  text-decoration: underline;
 }
 
 /* background color to navbar links on hover */
