@@ -88,7 +88,7 @@ body {  background-color: white;
 }
 
 
-/*button {
+button {
     display: none;
     height: 100px;
     padding: 10;
@@ -96,7 +96,7 @@ body {  background-color: white;
     vertical-align: top;
     width: 150px;
 }
-*/
+
 .aligncenter {
     text-align: center;
 
