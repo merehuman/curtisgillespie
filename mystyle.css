@@ -68,9 +68,16 @@ img:hover {
 .body.content > img,
 .body.content > p {
   display: inline-block;
+  
+}
+
+.body.content > p {
+  display: inline-block;
   margin-right: 40px
   margin-left: 100px;
   padding: 5px 5px;
+  font-family: Roboto;
+  font-size: 12px;
 }
 
 /*.dropdown {
