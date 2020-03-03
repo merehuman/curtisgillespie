@@ -44,6 +44,7 @@ img:hover {
   border-style:solid; 
   border-color:#000000;
   align-content: center; 
+  padding: 14px 16px;
 }
 
 .navbar a {
@@ -62,6 +63,7 @@ img:hover {
 .body.content > img,
 .body.content > p {
   display: inline-block;
+  margin-right: 10px
 }
 
 /*.dropdown {
