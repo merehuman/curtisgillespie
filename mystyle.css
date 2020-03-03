@@ -17,14 +17,6 @@ p {background-color: white;
   text-align: left;
 }
 
-.boxed {
-  border: 1.5px black ;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 /*img {
   opacity: 0.5;
   filter: alpha(opacity=50);
@@ -49,7 +41,7 @@ img:hover {
 }
 
 .navbar a {
-  font-size: 14px;
+  font-size: 18px;
   color: black;
   text-align: center;
   padding: 14px 16px;
