@@ -12,7 +12,8 @@ p {background-color: white;
     font-size: 12px;
   }
 
-.heading { font-size: 18px;
+.heading { font-size: 20px;
+  font-style: bold;
   font-family: Roboto;
   text-align: left;
 }
