@@ -4,7 +4,7 @@ html {  font-family: 'Roboto' ;
 body {  background-color: white; 
     font-family: Roboto;
     font-size: 12px;
-    margin: 30px;
+    margin: 30px 50px;
 	}
 
 p {background-color: white; 
@@ -68,7 +68,7 @@ img:hover {
 .body.content > img,
 .body.content > p {
   display: inline-block;
-  margin-right: 20px
+  margin-right: 40px
   margin-left: 100px;
   padding: 5px 5px;
 }
