@@ -43,15 +43,10 @@ img:hover {
 }
 
 .navbar {
+  float: right;
   overflow: hidden;
   background-color: #Ffffff; 
   font-family: Roboto;
-}
-
-span {
-  border:1.5px; 
-  border-style:solid; 
-  border-color:#000000;
 }
 
 .navbar a {
