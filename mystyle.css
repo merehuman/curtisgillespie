@@ -38,8 +38,12 @@ img:hover {
 
 .navbar {
   overflow: hidden;
-  background-color: #FAFAFA; 
+  background-color: #Ffffff; 
   font-family: Roboto;
+  border:1.5px; 
+  border-style:solid; 
+  border-color:#000000;
+  align-content: center; 
 }
 
 .navbar a {
@@ -56,7 +60,7 @@ img:hover {
 }
 
 .body.content > img,
-.body.content > span {
+.body.content > p {
   display: inline-block;
 }
 
