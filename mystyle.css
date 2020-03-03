@@ -4,6 +4,7 @@ html {  font-family: 'Roboto' ;
 body {  background-color: white; 
     font-family: Roboto;
     font-size: 12px;
+    margin-left: 50px;
 	}
 
 p {background-color: white; 
@@ -45,10 +46,6 @@ img:hover {
   overflow: hidden;
   background-color: #Ffffff; 
   font-family: Roboto;
-  border:1.5px; 
-  border-style:solid; 
-  border-color:#000000; 
-  padding: 14px 16px;
 }
 
 .navbar a {
@@ -76,7 +73,7 @@ img:hover {
 .body.content > p {
   display: inline-block;
   margin-right: 40px
-  margin-left: 50px;
+  margin-left: 150px;
   padding: 5px 5px;
   font-family: Roboto;
   font-size: 12px;
