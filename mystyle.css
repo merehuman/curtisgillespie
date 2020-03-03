@@ -48,15 +48,18 @@ img:hover {
   font-family: Roboto;
 }
 
+span {
+  border:1.5px; 
+  border-style:solid; 
+  border-color:#000000;
+}
+
 .navbar a {
   font-size: 14px;
   color: black;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
-  border:1.5px; 
-  border-style:solid; 
-  border-color:#000000; 
+  text-decoration: none; 
 }
 
 /* background color to navbar links on hover */
