@@ -18,16 +18,6 @@ p {background-color: white;
   text-align: left;
 }
 
-/*img {
-  opacity: 0.5;
-  filter: alpha(opacity=50);
-}
-
-img:hover {
-  opacity: 1.0;
-  filter: alpha(opacity=100); 
-}*/
-
 .box {
   border:1.5px; 
   border-style:solid; 
@@ -37,12 +27,12 @@ img:hover {
 
 .navbar {
   overflow: hidden;
-  background-color: #Ffffff; 
+  background-color: #f9f9f9; 
   font-family: Roboto;
 }
 
 .navbar a {
-  font-size: 16px;
+  font-size: 14px;
   color: black;
   text-align: center;
   padding: 14px 14px;
@@ -51,20 +41,16 @@ img:hover {
 
 /* background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #F2F2F2;
+  border:1.5px; 
+  border-style:solid; 
+  border-color:#000000; 
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
 }
 
-.body.content > img,
+/*.body.content > img,
 .body.content > p {
   display: inline-block;
   
-}
-
-span {
-  border:1.5px;
-  border-style:solid; 
-  border-color:#000000; 
-  padding: 5px 5px;
 }
 
 .body.content > p {
@@ -74,7 +60,18 @@ span {
   padding: 5px 5px;
   font-family: Roboto;
   font-size: 12px;
+}*/
+
+
+/*img {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
 }
+
+img:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100); 
+}*/
 
 /*.dropdown {
   float: left;
