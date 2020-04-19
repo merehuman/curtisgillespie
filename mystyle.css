@@ -41,13 +41,10 @@ p {background-color: white;
 
 /* background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  border:1.5px; 
-  border-style:solid; 
-  border-color:#000000; 
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
+  background-color: #f9f9f9;
 }
 
-/*.body.content > img,
+.body.content > img,
 .body.content > p {
   display: inline-block;
   
@@ -60,7 +57,7 @@ p {background-color: white;
   padding: 5px 5px;
   font-family: Roboto;
   font-size: 12px;
-}*/
+}
 
 
 /*img {
