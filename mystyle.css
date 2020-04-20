@@ -17,22 +17,16 @@ p {
     font-size: 12px;
   }
 
-.heading { font-size: 20px;
-  font-style: bold;
-  font-family: Roboto;
-  text-align: left;
-}
-
-.box {
+/*.box {
   border:1.5px; 
   border-style:solid; 
   border-color:#000000; 
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
-}
+}*/
 
 .navbar {
   overflow: hidden;
-  background-color: #ffffff; 
+  background-color: #f9f9f9; 
   margin-left: 180px;
   margin-right: 180px;
 }
@@ -47,7 +41,7 @@ p {
 
 /* background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #f9f9f9;
+  text-decoration: underline;
 }
 
 .body.content > img,
@@ -66,7 +60,7 @@ p {
 }
 
 
-/*img {
+img {
   opacity: 0.5;
   filter: alpha(opacity=50);
 }
@@ -74,7 +68,7 @@ p {
 img:hover {
   opacity: 1.0;
   filter: alpha(opacity=100); 
-}*/
+}
 
 /*.dropdown {
   float: left;
