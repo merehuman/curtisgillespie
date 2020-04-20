@@ -27,8 +27,6 @@ p {
 .navbar {
   overflow: hidden;
   background-color: #f9f9f9; 
-  margin-left: 180px;
-  margin-right: 180px;
 }
 
 .navbar a {
