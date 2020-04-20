@@ -1,5 +1,5 @@
 html {  font-family: 'Roboto' ; 
-background-color: #f9f9f9;
+background-color: #f6f6f6;
 	}
 
 body {  
@@ -26,7 +26,7 @@ p {
 
 .navbar {
   overflow: hidden;
-  background-color: #f9f9f9; 
+  background-color: #f6f6f6; 
 }
 
 .navbar a {
