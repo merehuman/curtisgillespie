@@ -62,7 +62,7 @@ ul.about {
   padding: 0px;
   display: flex;
   flex-direction: row;
-  width: 1500px;
+  width: 1000px;
   overflow-x: auto;
   white-space: nowrap;
 }
