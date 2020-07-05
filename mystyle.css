@@ -63,7 +63,7 @@ ul.about {
   display: flex;
   flex-direction: row;
   width: 1000px;
-  overflow-x: auto;
+  overflow-x: hidden;
   white-space: nowrap;
 }
 
@@ -79,7 +79,7 @@ li.about {
   border-style:solid; 
   border-color:#000000; 
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4); 
-  height: 500px;
+  /*height: 500px;*/
   width: 500px;
   padding: 10px 10px;
   word-wrap: break-word;
