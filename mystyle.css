@@ -40,10 +40,10 @@ p {
 
   ul.images {
   margin: 10px;
-  padding: 10px;
+  padding: 10px 10px;
   display: flex;
   flex-direction: row;
-  width:1000px;
+  width:1200px;
   overflow-x: auto;
 }
 
