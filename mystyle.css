@@ -43,13 +43,13 @@ p {
   padding: 10px;
   display: flex;
   flex-direction: row;
-  width: 1000px;
+  width:700px;
   overflow-x: auto;
 }
 
 ul.images li {
   flex: 0 0 auto;
-  width: 900px;
+  /*width: 900px;*/
   height: 300px;
 }
 
