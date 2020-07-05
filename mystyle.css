@@ -64,7 +64,6 @@ ul.about {
   flex-direction: row;
   width: 1000px;
   overflow-x: hidden;
-  white-space: nowrap;
 }
 
 ul.about li {
