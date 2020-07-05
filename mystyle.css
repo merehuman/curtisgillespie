@@ -50,7 +50,7 @@ p {
 ul.images li {
   flex: 0 0 auto;
   width: 300px;
-  /*height: 150px;*/
+  height: 300px;
 }
 
 
