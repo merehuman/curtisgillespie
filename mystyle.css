@@ -62,7 +62,7 @@ ul.about {
   padding: 0px;
   display: flex;
   flex-direction: row;
-  width: 1200px;
+  width: 1000px;
   overflow-x: hidden;
 }
 
@@ -78,7 +78,8 @@ p.about {
   border-style:solid; 
   border-color:#000000; 
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4); 
-  width: 600px;
+  background-color: white;
+  width: 500px;
   padding: 10px 10px;
   word-wrap: break-word;
 }
