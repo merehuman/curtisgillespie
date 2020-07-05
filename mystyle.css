@@ -45,7 +45,7 @@ ul.images {
   flex-direction: row;
   width: 1400px;
   /*overflow-x: auto;*/
-  overflow: auto;
+  overflow-x: hidden;
   white-space: nowrap;
 }
 
