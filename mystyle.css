@@ -74,12 +74,11 @@ ul.about li {
   height: 500px;
 }
 
-li.about {
+p.about {
   border:1.5px; 
   border-style:solid; 
   border-color:#000000; 
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4); 
-  /*height: 500px;*/
   width: 500px;
   padding: 10px 10px;
   word-wrap: break-word;
