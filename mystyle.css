@@ -57,6 +57,23 @@ ul.images li {
   height: 500px;
 }
 
+ul.about {
+  margin: 10px;
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  width: 900px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+ul.about li {
+  flex: 0 0 auto;
+  margin: 10px;
+  padding: 10px;
+  height: 500px;
+}
+
 p.about {
   border:1.5px; 
   border-style:solid; 
@@ -66,6 +83,7 @@ p.about {
   width:500px;
   text-align: center;
 }
+
 
 img {
     /* filter: url(filters.svg#grayscale); Firefox 3.5+ */
