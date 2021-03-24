@@ -1,0 +1,68 @@
+body {  
+  font-family: Consolas,monaco,monospace; 
+  color: black;
+	}
+
+* {
+  box-sizing: border-box;
+}
+
+.menu {
+  list-style:none;
+  font-size: 300%;
+  float: left;
+  width: 100%;
+  padding: 0px 30px 0px 30px;
+}
+
+table {
+  width: 100%;
+  border-bottom: 5.5px solid black;
+  line-height: 30px;
+}
+
+table td {
+  vertical-align: baseline;
+}
+
+#left {
+     list-style:none;
+     float: left;
+     text-align: left;
+     text-decoration: underline;
+}
+
+#right {
+     list-style:none;
+     float: right;
+     text-align: right;
+     text-decoration: underline;
+}
+
+#footer {
+  position: relative;
+  float: left;
+  bottom: 0px;
+  left: 30px;
+  font-size: 100%;
+  display: block;
+  border: 5.5px solid black;
+  padding: 5px;
+}
+
+a {
+  color: black;
+}
+
+a:hover { 
+  text-decoration: none;
+  color: blue;
+}
+
+#text {
+  border: 5.5px solid black;
+  float: left;
+  clear: both;
+  margin: 0px 30px 30px 30px; 
+  padding: 10px;
+}
